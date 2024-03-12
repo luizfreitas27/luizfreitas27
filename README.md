@@ -27,9 +27,8 @@
 
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-0D1117?style=for-the-badge&logo=neovim&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-vscode-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
  
