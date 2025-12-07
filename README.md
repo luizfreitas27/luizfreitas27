@@ -2,7 +2,9 @@
 
 **Full Stack Developer** · Brasil
 
-Desenvolvedor apaixonado por criar soluções escaláveis e experiências de usuário excepcionais. Focado em aplicações web modernas com TypeScript e .NET.
+Hello! I'm a Fullstack Developer passionate about building robust back-end systems and crafting modern, user-friendly front-end experiences. With hands-on experience in C#, .NET, ASP.NET Core, Java, Spring Boot, Angular, React, Next.js, and TypeScript, I specialize in developing scalable RESTful APIs and intuitive interfaces.
+
+I value clean, well-structured architecture and always aim for high performance, security, and exceptional user experience. Continuously evolving, I’m driven by the challenge of delivering efficient, high-quality solutions that create meaningful impact.
 
 ---
 
