@@ -52,9 +52,19 @@ I value clean, well-structured architecture and always aim for high performance,
 
 ## 📊 GitHub Stats
 
+📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=luizfreitas27" />
+  <img 
+       src="https://github-readme-stats-rickstaa.vercel.app/api?username=luizfreitas27&show_icons=true&theme=github_dark&hide_border=true"
+       height="170"
+  />
+  <img 
+       src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=luizfreitas27&layout=compact&theme=github_dark&hide_border=true"
+       height="170"
+  />
 </div>
+
 
 
 ---
