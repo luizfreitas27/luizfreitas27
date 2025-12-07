@@ -14,13 +14,13 @@ I value clean, well-structured architecture and always aim for high performance,
 `React.js` `Next.js` `Angular` `PrimeNG` `TypeScript` `Tailwind CSS` `Sass`
 
 **Backend**
-`Node.js` `Express.js` `C#` `.NET` `ASP.NET`
+`Node.js` `C#` `.NET` `ASP.NET`
 
 **Banco de Dados**
 `PostgreSQL` `MongoDB` `Redis`
 
 **Ferramentas**
-`Git` `Neovim` `VS Code` `GitHub`
+`Git` `Rider` `Neovim` `VS Code` `GitHub`
 
 ---
 
