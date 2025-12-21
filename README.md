@@ -8,7 +8,7 @@ I value clean, well-structured architecture and always aim for high performance,
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Stacks
 
 ### Frontend
 
@@ -30,7 +30,7 @@ I value clean, well-structured architecture and always aim for high performance,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28"/>
 </p>
 
-### Banco de Dados
+### Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/>&nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@ I value clean, well-structured architecture and always aim for high performance,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28"/>
 </p>
 
-### Ferramentas
+### Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>&nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@ I value clean, well-structured architecture and always aim for high performance,
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 <p>
   <a href="https://linkedin.com/in/seu-linkedin">
